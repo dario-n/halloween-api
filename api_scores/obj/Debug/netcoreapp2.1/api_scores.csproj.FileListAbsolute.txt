@@ -1,0 +1,14 @@
+C:\Users\dnaldjian\Desktop\api\api_scores\bin\Debug\netcoreapp2.1\api_scores.deps.json
+C:\Users\dnaldjian\Desktop\api\api_scores\bin\Debug\netcoreapp2.1\api_scores.runtimeconfig.json
+C:\Users\dnaldjian\Desktop\api\api_scores\bin\Debug\netcoreapp2.1\api_scores.runtimeconfig.dev.json
+C:\Users\dnaldjian\Desktop\api\api_scores\bin\Debug\netcoreapp2.1\api_scores.dll
+C:\Users\dnaldjian\Desktop\api\api_scores\bin\Debug\netcoreapp2.1\api_scores.pdb
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.csproj.CoreCompileInputs.cache
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.RazorAssemblyInfo.cache
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.RazorAssemblyInfo.cs
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.AssemblyInfoInputs.cache
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.AssemblyInfo.cs
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.RazorTargetAssemblyInfo.cache
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.dll
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.pdb
+C:\Users\dnaldjian\Desktop\api\api_scores\obj\Debug\netcoreapp2.1\api_scores.csprojAssemblyReference.cache
